@@ -1,0 +1,19 @@
+body {
+    width: 200px;
+}
+
+.asteroidbig, .asteroidb329big {
+    color: blue;
+}
+
+.asteroid, .asteroidb326 {
+    border: 1px solid green;
+}
+
+div {
+    font-weight: bold;
+}
+
+p {
+    background: yellow;
+}
